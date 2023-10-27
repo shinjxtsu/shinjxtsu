@@ -36,5 +36,4 @@ My Github profile, as of now, will mostly be used for working on personal projec
 <a href="https://discordapp.com/users/222899628725633024"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:alessandroneri962@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC2jLpU5BiKRYiwKvrHyU73w"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-
-
+<a href="https://www.instagram.com/shinjxtsu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
