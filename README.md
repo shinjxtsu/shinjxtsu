@@ -10,8 +10,6 @@ My Github profile, as of now, will mostly be used for working on personal projec
 私のプロジェクトは今大体全部非公開です。なぜならgithubを使っている理由は練習しかありません。
 公開のプロジェクトは大体大学の課題です。
 
-
-
 ### What I'm comfortable with (📚):
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
