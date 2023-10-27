@@ -1,5 +1,3 @@
-## Shinjxtsu
-
 ### Hey, welcome to my profile! 👋
 
 I'm a 22-year-old computer engineering undergraduate from Brazil, currently in my 2nd year.
