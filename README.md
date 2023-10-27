@@ -7,6 +7,13 @@ Apart from looking up stuff about computers and machines in general, I also real
 
 My Github profile, as of now, will mostly be used for working on personal projects to put both the knowledge I get at university and the things I look up myself into practice. Most of my repositories, at least until the code is working to a reasonable degree, will remain private, except for those that are linked to university projects.
 
+２２歳ブラジル人の大学生。現在２年生で、専攻はコンピュータ工学です。
+暇のときに外国語を勉強することは楽しいと思います。
+私のプロジェクトは今大体全部非公開です。なぜならgithubを使っている理由は練習しかありません。
+公開のプロジェクトは大体大学の課題です。
+
+
+
 ### What I'm comfortable with (📚):
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
