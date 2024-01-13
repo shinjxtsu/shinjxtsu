@@ -1,14 +1,9 @@
 ### Hey, welcome to my profile! 👋
 
-I'm a 22-year-old computer engineering undergraduate from Brazil, currently in my 2nd year.
-Apart from looking up stuff about computers and machines in general, I also really like learning about languages (**human** languages) and cultures.
+I'm a 22-year-old computer engineering undergraduate student from Brazil, currently in my 2nd year.
+Apart from looking up stuff about computers and machines in general, I also really like learning about foreign languages and cultures.
 
-My Github profile, as of now, will mostly be used for working on personal projects to put both the knowledge I get at university and the things I look up myself into practice. Most of my repositories, at least until the code is working to a reasonable degree, will remain private, except for those that are linked to university projects.
-
-２２歳ブラジル人の大学生。現在２年生で、専攻はコンピュータ工学です。
-暇のときに外国語を勉強することは楽しいと思います。
-私のプロジェクトは今大体全部非公開です。なぜならgithubを使っている理由は練習しかありません。
-公開のプロジェクトは大体大学の課題です。
+My Github profile, as of now, will mostly be used for working on personal projects to put both the knowledge I get at university and the things I look up myself into practice. Most of my repositories, at least until the code is working to a reasonable degree, will remain private, except for those that are linked to university projects and must remain public as a requirement.
 
 ### What I'm comfortable with (📚):
 
@@ -32,9 +27,7 @@ My Github profile, as of now, will mostly be used for working on personal projec
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### Contact Info (📞):
+### Contact Info / Socials (📞):
 
-<a href="https://discordapp.com/users/222899628725633024"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:alessandroneri962@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC2jLpU5BiKRYiwKvrHyU73w"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://www.instagram.com/shinjxtsu"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
